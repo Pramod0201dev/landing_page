@@ -310,6 +310,9 @@
     justify-content: space-between;
     width: 566px;
 }
+.linksection a:hover{
+    color: yellow;
+}
 .links{
     display: flex;
     flex-direction: column;
@@ -341,5 +344,5 @@
 .section1, .section2, .section3{
     animation: appear linear;
     animation-timeline: view();
-    animation-range: entry 0% cover 40%;
+    animation-range: entry 0% cover 60%;
 }
