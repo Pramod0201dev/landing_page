@@ -191,10 +191,7 @@
     border-radius: 10px;
     transition: transform 0.5s ease-in;
 }
-.image01:hover{
-    transform: scale(1.1);
-    /* box-shadow: 10px 10px 8px white; */
-}
+
 .leftblock{
     display: flex;
     flex-direction: column;
